@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26abc9b4-6eb6-41ab-8c9d-5f0c933f4119" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/matrices.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="26abc9b4-6eb6-41ab-8c9d-5f0c933f4119" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="matrices.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/matrices.rb">
+      <file leaf-file-name="hash.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hash.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -45,6 +42,7 @@
         <option value="$PROJECT_DIR$/while.rb" />
         <option value="$PROJECT_DIR$/iteradores.rb" />
         <option value="$PROJECT_DIR$/matrices.rb" />
+        <option value="$PROJECT_DIR$/hash.rb" />
       </list>
     </option>
   </component>
@@ -117,12 +115,12 @@
       <workItem from="1530583612784" duration="1535000" />
       <workItem from="1530749652948" duration="3716000" />
       <workItem from="1530838392399" duration="5528000" />
-      <workItem from="1531083867499" duration="1339000" />
+      <workItem from="1531083867499" duration="2363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20025000" />
+    <option name="totallyTimeSpent" value="21049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -324,13 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cadenas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/casos.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -391,6 +382,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadenas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
