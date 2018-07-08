@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26abc9b4-6eb6-41ab-8c9d-5f0c933f4119" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/metodos.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splat.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="metodos.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/metodos.rb">
+      <file leaf-file-name="splat.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/splat.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="17">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -48,6 +47,7 @@
         <option value="$PROJECT_DIR$/hash.rb" />
         <option value="$PROJECT_DIR$/ope_hash.rb" />
         <option value="$PROJECT_DIR$/metodos.rb" />
+        <option value="$PROJECT_DIR$/splat.rb" />
       </list>
     </option>
   </component>
@@ -120,16 +120,15 @@
       <workItem from="1530583612784" duration="1535000" />
       <workItem from="1530749652948" duration="3716000" />
       <workItem from="1530838392399" duration="5528000" />
-      <workItem from="1531083867499" duration="4024000" />
+      <workItem from="1531083867499" duration="5004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22710000" />
+    <option name="totallyTimeSpent" value="23690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -415,6 +414,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splat.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
