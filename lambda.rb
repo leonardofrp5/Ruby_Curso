@@ -1,0 +1,1 @@
+(lambda {puts "Hola Mundo"}).call
